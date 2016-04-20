@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiagraecain01dindgoog_0007.png"; bbox 0 0 1664 2140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 325 501 1040 640">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 325 501 1040 640">
+     <span class='ocr_line' id='line_1_1' title="bbox 521 501 852 547; baseline 0.024 -8"><span class='ocrx_word' id='word_1_1' title='bbox 521 501 686 542; x_wconf 66' lang='lat' dir='ltr'>[semer</span> <span class='ocrx_word' id='word_1_2' title='bbox 702 506 756 544; x_wconf 77' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_3' title='bbox 775 507 852 547; x_wconf 79' lang='grc' dir='ltr'>ῙΗΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 325 554 1040 640; baseline 0.022 -47"><span class='ocrx_word' id='word_1_4' title='bbox 325 554 481 595; x_wconf 63' lang='lat' dir='ltr'>[fumo</span> <span class='ocrx_word' id='word_1_5' title='bbox 500 557 781 640; x_wconf 28' lang='grc' dir='ltr'>δῖἂκΝξῇθέῖΚρέΙΟΗ.</span> <span class='ocrx_word' id='word_1_6' title='bbox 797 565 1040 609; x_wconf 56' lang='lat' dir='ltr'>umentem.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 553 650 943 1040">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 553 650 943 1040">
+     <span class='ocr_line' id='line_1_3' title="bbox 553 650 943 1040; baseline 0 1100"><span class='ocrx_word' id='word_1_7' title='bbox 553 650 943 1040; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 698 1120 855 1145">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 698 1120 855 1145">
+     <span class='ocr_line' id='line_1_4' title="bbox 698 1120 855 1145; baseline 0.006 -1"><span class='ocrx_word' id='word_1_8' title='bbox 698 1120 855 1145; x_wconf 89' lang='lat' dir='ltr'><strong>LIPSIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 479 1202 1075 1227">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 479 1202 1075 1227">
+     <span class='ocr_line' id='line_1_5' title="bbox 479 1202 1075 1227; baseline -0.003 0"><span class='ocrx_word' id='word_1_9' title='bbox 479 1203 567 1227; x_wconf 81' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_10' title='bbox 594 1203 620 1227; x_wconf 85' lang='grc' dir='ltr'>Τ.</span> <span class='ocrx_word' id='word_1_11' title='bbox 645 1202 672 1226; x_wconf 94' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_12' title='bbox 696 1203 822 1226; x_wconf 79' lang='lat' dir='ltr'>WEIGEL</span> <span class='ocrx_word' id='word_1_13' title='bbox 849 1202 1075 1226; x_wconf 77' lang='lat' dir='ltr'>SUGCESSOREM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 642 1272 912 1292">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 642 1272 912 1292">
+     <span class='ocr_line' id='line_1_6' title="bbox 642 1272 912 1292; baseline 0.004 -5"><span class='ocrx_word' id='word_1_14' title='bbox 642 1272 685 1292; x_wconf 69' lang='lat' dir='ltr'><strong>(cn.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 695 1272 767 1289; x_wconf 71' lang='lat' dir='ltr'>nnn.</span> <span class='ocrx_word' id='word_1_16' title='bbox 777 1272 912 1292; x_wconf 65' lang='lat' dir='ltr'>nummu-z&gt;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

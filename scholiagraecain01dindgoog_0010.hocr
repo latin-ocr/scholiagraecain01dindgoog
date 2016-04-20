@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiagraecain01dindgoog_0010.png"; bbox 0 0 1664 2140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 718 1255 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 718 1255 1079">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 1033 762 1079; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 488 1036 762 1079; x_wconf 57' lang='lat' dir='ltr'>„El</span> <span class='ocrx_word' id='word_1_2' title='bbox 346 1033 454 1072; x_wconf 57' lang='grc'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 347 895 1253 942; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 787 902 1253 942; x_wconf 56' lang='lat' dir='ltr'>ulnam-mlum&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 347 895 750 933; x_wconf 45' lang='lat' dir='ltr'>fland-nul*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 348 851 1255 898; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 348 851 1255 898; x_wconf 44' lang='lat' dir='ltr'>*alfii-²³¹³,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 356 764 1255 806; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 356 764 1255 806; x_wconf 54' lang='lat' dir='ltr'>..sufflfflnflaffnff-fflu-ilff...</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 400 718 1255 762; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 400 718 1255 762; x_wconf 48' lang='grc' dir='ltr'>ξέθμΙ-ΙΙἙῘ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 256 103 1258 2011">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 256 103 1258 2011">
+     <span class='ocr_line' id='line_1_6' title="bbox 256 103 1258 2011; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 256 103 1258 2011; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
